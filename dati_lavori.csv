@@ -1,0 +1,6 @@
+id,wbs,attivita,referente,inizio,scadenza,avanzamento,stato,priorita,note
+AT-01,WP1.1,Raccolta dati e sopralluogo tecnico,Utente 1,2026-12-01,2026-12-04,100,Completato,Alta,Verbale archiviato
+AT-02,WP1.2,Redazione elaborati tecnici e verifiche,Utente 2,2026-12-05,2026-12-12,60,In corso,Critica,In lavorazione tavole esecutive
+AT-03,WP2.1,Stesura documentazione tecnica e procedure,Utente 3,2026-12-08,2026-12-15,40,In corso,Alta,Allineamento con specifiche AT-02
+AT-04,WP1.3,Revisione interna e controllo qualita,Utente 1,2026-12-13,2026-12-17,0,Da avviare,Critica,In attesa chiusura AT-02
+AT-06,WP3.1,Verifica offerta tecnica fornitore,Utente 2,2026-12-02,2026-12-10,30,Bloccato,Critica,In attesa schede tecniche
